@@ -4,6 +4,16 @@
 
 ### This plugin adds blocks, items, entities etc to your server.
 #### Fully working Blocks:
+- Froglights (Ochre, Pearlescents, Verdant)
+- Mud
+- Muddy Mangrove Roots
+- Cobbled Deepslate
+- Powder Snow
+- Azalea
+- Lightning Rod
+- Mangrove Roots
+- Copper
+- Dripleaf (30%)
 - Jukebox
 - Mob Spawner
 - Enchantment Table
@@ -52,6 +62,7 @@
 - Depslated Ores (Iron, Gold, Diamond, Lapis, Coal, Emerald, Copper, Redstone)
 
 #### TODO Blocks Functionality:
+- Candle
 - Deepslate (Chiseled, Cracked)
 - Blackstone (Slab, Stairs, Wall, Polished, Cracked)
 - Soul (Fire, Soil, Torch, Lantern)
@@ -74,7 +85,7 @@
 - Structure Block
 - Structure Void
 - Turtle Egg
-- 1.17 Blocks
+- 1.17 - 19 Blocks
 
 #### Entities:
 - All Minecraft Entities (Not functional)
@@ -96,6 +107,7 @@
 - Crossbow
 
 #### TODO Items:
+- Glow Berries
 - Fishing Rod
 - Boat
 - Lead
